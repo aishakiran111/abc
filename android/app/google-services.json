@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "706409782",
+    "project_id": "notification-87837",
+    "storage_bucket": "notification-87837.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706409782:android:3c5a6ac0537eb853d96f97",
+        "android_client_info": {
+          "package_name": "com.artboxy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706409782-rp051n9hqtk7jgk45gs40qushvbvvtug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCryN0iTpaWwv9tDmtpx4JeP_P5XepPnFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706409782-rp051n9hqtk7jgk45gs40qushvbvvtug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
